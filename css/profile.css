@@ -45,6 +45,9 @@
     padding: 0.5em 1em;
     border-radius: 7px;
 }
+.profiler-btn a{
+    color: var(--text-color-inverse);
+}
 .profiler-btn:hover{
     filter: brightness(150%);
 }
